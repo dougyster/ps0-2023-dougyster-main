@@ -107,7 +107,7 @@ We care about your responses and will use them to help guide us in
 creating future assignments.
 ......................................................................*)
 
-let minutes_spent_on_pset () : int = 80 ;;
+let minutes_spent () : int = 80 ;;
 
 
 (*......................................................................
